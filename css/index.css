@@ -434,6 +434,11 @@ mark {
 		position: relative;
 	}
 
+	.nav-content #results{
+		transform: translate(-30px,35px);
+	}
+	
+
     .nav .list > li > a {
         display: block;
         padding: 2px;
