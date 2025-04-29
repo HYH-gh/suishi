@@ -482,20 +482,20 @@ mark {
 
     .main-part {
        height: 100px;
-        padding: 10px 0;
+        padding: 0;
     }
 
     .main-part .img{
         float: none;
         width: 100% !important;
-        margin: 10px 0;
+        margin: 2px 0;
         height: 200px;		
     }
 
     .main-part .text {
 		/* float: left; */
 		width: 95%;
-		height: 250px;
+		height: 500px;
 		margin:5px;
     }
 	
@@ -522,7 +522,7 @@ mark {
 
     .mian-2-part {
 		width: 94%;
-        height: 245px;
+        height: 400px;
 		/* float: right; */
 		margin: 5px;
         /* column-count: 1; */
